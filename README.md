@@ -22,7 +22,7 @@ If a service or application is accessible via the internet and you don't need to
 !["Alt Text"](clouldvsonprem.png)
 
 ### On-Premises (On-Prem)
-Resources are hosted in-house, within an organization’s physical location.
+Resources are hosted in-house, within an organisation’s physical location.
 
 ### Cloud
 Resources are hosted online by a third-party provider.
