@@ -61,14 +61,13 @@ Use of multiple cloud services from different providers.
 **Key Takeaway**: Different deployment models offer varying levels of control, flexibility, and security to meet diverse business needs.
 
 ## How Do They Work?
-### Private Cloud
-Hosted on the organization’s own servers or a dedicated provider.
-### Public Cloud
-Hosted on the provider’s infrastructure, shared among multiple users.
-### Hybrid Cloud
-Integrates private and public clouds, often using orchestration tools.
-### Multi-Cloud
-Utilises multiple public clouds, often for redundancy and specialised services.
+| **Cloud Type**        | **How They Work**                                                                   |
+|-------------------|---------------------------------------------------------------------------------|
+| **Private Cloud** | Hosted on the organisation’s own servers or a dedicated provider.               |
+| **Public Cloud**      | Hosted on the provider’s infrastructure, shared among multiple users.           |
+| **Hybrid Cloud**      | Integrates private and public clouds, often using orchestration tools.          |
+| **Multi-Cloud**       | Utilises multiple public clouds, often for redundancy and specialised services. |
+
 
 **Key Takeaway**: Each model works by providing computing resources with different levels of exclusivity and integration.
 
