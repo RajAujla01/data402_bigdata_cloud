@@ -125,10 +125,14 @@ Use of multiple cloud services from different providers.
 
 ## Difference Between OpEx vs CapEx and How it Relates to the Cloud
 
-| Expense Type          | Description                                                |
-|-----------------------|------------------------------------------------------------|
-| Operating Expenses    | Ongoing costs for running a business (e.g., cloud service subscriptions). |
-| Capital Expenses      | Upfront costs for physical assets (e.g., servers, data centers).           |
+**CapEx** involves large upfront investments in physical assets like buildings, equipment, or servers. These investments depreciate in value over time. 
+
+**OpEx** includes the day-to-day expenses of running a business, such as salaries, utilities, and services, which are paid regularly and do not involve significant upfront costs.
+
+| Expense         | Description                                                |
+|-----------------|------------------------------------------------------------|
+| Operating Expenses | Ongoing costs for running a business (e.g., cloud service subscriptions). |
+| Capital Expenses | Upfront costs for physical assets (e.g., servers, data centers).           |
 
 
 **Key Takeaway**: Cloud services often shift costs from CapEx to OpEx, making budgeting more predictable and flexible.
