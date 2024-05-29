@@ -1,6 +1,7 @@
 # What is Cloud Computing?
 
 !["Alt Text"](cloud.jpeg)
+
 Cloud Computing is the delivery of various services over the internet, such as storage, computing power, and applications. Instead of using local servers or personal devices, these services are accessed and managed online.
 
 **Example**: When you use Google Drive to store your files or Netflix to stream movies, you are using cloud computing services.
@@ -19,6 +20,7 @@ If a service or application is accessible via the internet and you don't need to
 ## Differences Between On-Prem and the Cloud
 
 !["Alt Text"](clouldvsonprem.png)
+
 ### On-Premises (On-Prem)
 Resources are hosted in-house, within an organization’s physical location.
 
@@ -31,19 +33,27 @@ Resources are hosted online by a third-party provider.
 
 ## The 4 Deployment Models of Cloud: Private vs Public vs Hybrid vs Multi-Cloud
 ### Private Cloud 
+
 !["Alt Text"](privatecloud.png)
+
 Exclusive to one organization, offering control and security.
 
 ### Public Cloud 
+
 !["Alt Text"](Public-cloud.jpg)
+
 Services are provided over the internet by third-party providers to multiple organisations.
 
 ### Hybrid Cloud 
+
 !["Alt Text"](Hybrid-Cloud-1140-x-760.jpg)
+
 Combines private and public clouds, allowing data and applications to be shared between them.
 
 ### Multi-Cloud 
-!["Alt Text"](multi.avif)\
+
+!["Alt Text"](multi.avif)
+
 Use of multiple cloud services from different providers.
 
 **Example**: A company might use a private cloud for sensitive data and a public cloud for less critical applications (hybrid).
@@ -66,26 +76,32 @@ Utilises multiple public clouds, often for redundancy and specialised services.
 **IaaS, PaaS, SaaS - What are Differences?**
 ### Infrastructure as a Service (IaaS)
 !["Alt Text"](iaas.png)
+
 Provides virtualised computing resources over the internet.
 
 ### Platform as a Service (PaaS)
 !["Alt Text"](paas.png)
+
 Provides hardware and software tools over the internet, mainly for application development.
 
 ### Software as a Service (SaaS)
 !["Alt Text"](saas.png)
+
 Delivers software applications over the internet, on a subscription basis.
 
 **Examples**:
 
 ### IaaS
 !["Alt Text"](ec2.avif)
+
 AWS EC2 (virtual servers)
 ### PaaS
 !["Alt Text"](googleae.jpeg)
+
 Google App Engine (application development platform)
 ### SaaS
 !["Alt Text"](office.png)
+
 Microsoft Office 365 (online applications)
 
 **Key Takeaway**: Cloud services range from basic infrastructure (IaaS) to complete applications (SaaS), catering to different levels of user needs.
