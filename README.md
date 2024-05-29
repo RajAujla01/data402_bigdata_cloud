@@ -9,6 +9,7 @@ Cloud Computing is the delivery of various services over the internet, such as s
 
 ## How Do We Know if Something is in the Cloud?
 !["Alt Text"](q.avif)
+
 If a service or application is accessible via the internet and you don't need to install or manage it on your local device, it’s likely in the cloud.
 
 **Example**: Using email services like Gmail or Office 365, where your emails are stored online and can be accessed from any device.
@@ -110,9 +111,12 @@ Microsoft Office 365 (online applications)
 **Key Takeaway**: The cloud offers significant benefits in terms of cost and flexibility but comes with considerations regarding security and control.
 
 ## Difference Between OpEx vs CapEx and How it Relates to the Cloud
-**Operating Expenses (OpEx)**: Ongoing costs for running a business (e.g., cloud service subscriptions).
 
-**Capital Expenses (CapEx)**: Upfront costs for physical assets (e.g., servers, data centers).
+| Expense Type          | Description                                                |
+|-----------------------|------------------------------------------------------------|
+| Operating Expenses    | Ongoing costs for running a business (e.g., cloud service subscriptions). |
+| Capital Expenses      | Upfront costs for physical assets (e.g., servers, data centers).           |
+
 
 **Key Takeaway**: Cloud services often shift costs from CapEx to OpEx, making budgeting more predictable and flexible.
 
@@ -124,13 +128,11 @@ Not necessarily. While cloud services can reduce CapEx, the total cost depends o
 ## Market Share - What is the Breakdown?
 As of recent data, the major cloud providers include:
 
-**Amazon Web Services (AWS)**
+1. **Amazon Web Services (AWS)**
 
-**Microsoft Azure**
+2. **Microsoft Azure**
 
-**Google Cloud Platform (GCP)**
-
-**Key Takeaway**: AWS, Azure, and GCP dominate the cloud market, each with unique strengths and services.
+3. **Google Cloud Platform (GCP)**
 
 ## What are the 3 Largest Cloud Providers Known For?
 
@@ -174,7 +176,9 @@ Data in the cloud is stored, processed, and analysed using cloud-based tools and
 **Key Takeaway**: Effective use of cloud data services requires knowledge of cloud platforms, data management practices, and security considerations.
 
 # Case Studies
+
 ## Netflix
+!["Alt Text"](netflix-symbol-black.png)
 
 **Overview**:
 
@@ -214,6 +218,8 @@ Key Takeaway:
 Migrating to AWS allowed Netflix to scale its services globally, enhance reliability, and provide personalized content recommendations, thereby improving user satisfaction and engagement.
 
 ## Airbnb
+!["Alt Text"](698437.png)
+
 **Overview**:
 
 Airbnb, the popular online marketplace for lodging and tourism experiences, needed a flexible and scalable infrastructure to manage its growing platform and improve data insights.
@@ -251,6 +257,8 @@ Enhanced data analytics for better business decisions.
 By migrating to AWS, Airbnb achieved the flexibility and scalability needed to support its expanding platform, improving both performance and user satisfaction.
 
 ## General Electric (GE)
+!["Alt Text"](images.png)
+
 **Overview**:
 General Electric (GE), a multinational conglomerate, sought to modernize its IT infrastructure and improve operational efficiency through cloud migration.
 
