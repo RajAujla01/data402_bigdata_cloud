@@ -73,35 +73,33 @@ Use of multiple cloud services from different providers.
 
 ## Types of Cloud Services
 **IaaS, PaaS, SaaS - What are Differences?**
-### Infrastructure as a Service (IaaS)
 !["Alt Text"](iaas.png)
 
-Provides virtualised computing resources over the internet.
-
-### Platform as a Service (PaaS)
 !["Alt Text"](paas.png)
 
-Provides hardware and software tools over the internet, mainly for application development.
-
-### Software as a Service (SaaS)
 !["Alt Text"](saas.png)
 
-Delivers software applications over the internet, on a subscription basis.
+| Type of Cloud Service     | Description                                                                                         |
+|---------------------------|-----------------------------------------------------------------------------------------------------|
+| Infrastructure as a Service (IaaS) | Provides virtualised computing resources over the internet.                                       |
+| Platform as a Service (PaaS)       | Provides hardware and software tools over the internet, mainly for application development.         |
+| Software as a Service (SaaS)       | Delivers software applications over the internet, on a subscription basis.                           |
+
+
+
 
 **Examples**:
 
-### IaaS
+### IaaS - AWS EC2 (virtual servers)
 !["Alt Text"](ec2.avif)
 
-AWS EC2 (virtual servers)
-### PaaS
+### PaaS - Google App Engine (application development platform)
 !["Alt Text"](googleae.jpeg)
 
-Google App Engine (application development platform)
-### SaaS
+### SaaS - Microsoft Office 365 (online applications)
 !["Alt Text"](office.png)
 
-Microsoft Office 365 (online applications)
+
 
 **Key Takeaway**: Cloud services range from basic infrastructure (IaaS) to complete applications (SaaS), catering to different levels of user needs.
 
@@ -201,11 +199,11 @@ Netflix, the global streaming giant, decided to migrate to the cloud to support 
 
 **Challenges**:
 
-Scaling infrastructure to handle increasing content and user base.
+- Scaling infrastructure to handle increasing content and user base.
 
-Ensuring high availability and reliability of streaming services.
+- Ensuring high availability and reliability of streaming services.
 
-Managing data storage and analytics for personalized recommendations.
+- Managing data storage and analytics for personalized recommendations.
 
 **Solution**:
 
@@ -220,13 +218,13 @@ This included:
 
 **Benefits**:
 
-Scalability: 
+- Scalability: 
 Netflix can now handle millions of concurrent streams without downtime.
 
-Reliability: 
+- Reliability: 
 AWS's global infrastructure ensures high availability and disaster recovery.
 
-Efficiency: 
+- Efficiency: 
 Improved data processing and analytics for personalized user experiences.
 
 Key Takeaway: 
@@ -241,11 +239,11 @@ Airbnb, the popular online marketplace for lodging and tourism experiences, need
 
 **Challenges**:
 
-Handling rapid growth in user base and listings.
+- Handling rapid growth in user base and listings.
 
-Managing data for personalized search and recommendations.
+- Managing data for personalized search and recommendations.
 
-Ensuring high performance and uptime during peak times.
+- Ensuring high performance and uptime during peak times.
 
 **Solution**:
 
@@ -256,16 +254,16 @@ Airbnb migrated its infrastructure to Amazon Web Services (AWS) to take advantag
 - Leveraging Amazon RDS and Amazon S3 for reliable data storage and management.
 
 - Implementing AWS data analytics tools to gain insights and optimize search algorithms.
-- 
+
 **Benefits**:
 
-Scalability: 
+- Scalability: 
 Easily managed growing user demands and traffic spikes.
 
-Performance: 
+- Performance: 
 Improved search and recommendation systems for users.
 
-Data Insights: 
+- Data Insights: 
 Enhanced data analytics for better business decisions.
 
 **Key Takeaway**: 
@@ -279,11 +277,11 @@ General Electric (GE), a multinational conglomerate, sought to modernize its IT 
 
 **Challenges**:
 
-Modernising legacy systems and reducing IT costs.
+- Modernising legacy systems and reducing IT costs.
 
-Enhancing data analytics capabilities for better decision-making.
+- Enhancing data analytics capabilities for better decision-making.
 
-Increasing operational efficiency and agility.
+- Increasing operational efficiency and agility.
 
 **Solution**:
 GE embarked on a cloud transformation journey using Microsoft Azure:
@@ -296,13 +294,13 @@ GE embarked on a cloud transformation journey using Microsoft Azure:
 
 **Benefits**:
 
-Cost Savings: 
+- Cost Savings: 
 Reduced IT infrastructure costs by moving to a pay-as-you-go model.
 
-Operational Efficiency: 
+- Operational Efficiency: 
 Streamlined operations and improved agility.
 
-Data-Driven Insights: 
+- Data-Driven Insights: 
 Enhanced analytics capabilities for better decision-making and predictive maintenance.
 
 **Key Takeaway**: 
