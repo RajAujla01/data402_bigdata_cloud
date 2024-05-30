@@ -1,5 +1,5 @@
 # SSH Keys & Github
-
+!["Alt Text"](key.png)
 ## Step 1: Open Git Bash
 ```
 cd 
