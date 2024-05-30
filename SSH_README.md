@@ -18,6 +18,8 @@ cd .ssh
 ```
 This command changes the directory to the newly created .ssh directory. This is where you will generate and store your SSH key.
 
+!["Alt Text"](1.png)
+
 ## Step 4: Generate SSH Key
 ```
 ssh-keygen -t rsa -b 4096 -C "raj_aujla7@hotmail.com"
