@@ -41,3 +41,6 @@
 !["Alt Text"](aws/13.png)
 
 ### Enter ```exit``` to close the connection 
+
+### Terminate the instance
+!["Alt Text"](aws/14.png)
